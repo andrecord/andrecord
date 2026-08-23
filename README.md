@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm André Cordeiro de Sousa
 
-<!--
-**andrecord/andrecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Eletrical Engineer student in process to become a Computer Cience student**  
+🇧🇷 Brazil
+---
 
-Here are some ideas to get you started:
+## Where to find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/andrecord">
+    <img src="https://img.shields.io/badge/GitHub-ANDRECORD-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-cordeiro-22a35b3ab">
+    <img src="https://img.shields.io/badge/YouTube-ANDRÉ%20CORDEIRO-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+
+-   🎓 Teaching & mentoring
+-   ⌨️ Programming
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andrecord&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecord&layout=compact&theme=tokyonight" />
+</p>
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
