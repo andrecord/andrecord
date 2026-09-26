@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-ANDRECORD-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-cordeiro-22a35b3ab">
-    <img src="https://img.shields.io/badge/YouTube-ANDRÉ%20CORDEIRO-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linkedin-ANDRÉ%20CORDEIRO-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
